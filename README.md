@@ -1,10 +1,10 @@
-<img src="https://smodels.github.io/pics/smodelsTutorial.png" alt="banner">
+<img src="https://smodels.github.io/pics/smodelsTutorial.png" alt="SModelS Tutorials">
 
 
-### Check the distinct branches for access to public tutorials.
+### Check the branches for access to other public tutorials.
 
 
-# Re-Interpretation Workshop 2021
+# Re-Interpretation Workshop 2021 Tutorial
 SModelS notebook for the [Re-Interpretation](https://indico.cern.ch/event/982553/) virtual conference.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SModelS/tutorials/rif2021?filepath=index.ipynb)
