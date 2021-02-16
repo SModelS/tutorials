@@ -1,4 +1,4 @@
-<img src="https://smodels.github.io/pics/smodelsTutorial.png" alt="SModelS Tutorials">
+<img src="smodelsTutorial.png" alt="SModelS Tutorials">
 
 
 ### Check the branches for access to other public tutorials.
