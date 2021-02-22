@@ -10,7 +10,7 @@ SModelS tutorial for the [Re-Interpretation](https://indico.cern.ch/event/982553
 ### Material:
 
  * [Installation instructions](smodels-installation.pdf)
- * [Slides - tutorial](smodels-slides.pdf)
+ * [Slides - tutorial](smodels-tutorial.pdf)
  * [Auxiliary files](files_tutorial_rif_2021.zip)
 
 The tutorial can also be executed using binder:
