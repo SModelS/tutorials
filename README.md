@@ -17,4 +17,4 @@ The tutorial can also be executed using binder:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SModelS/tutorials/rif2021?filepath=index.ipynb)
 
-[![Google Colab](https://colab.research.google.com/github/SModelS/tutorials/blob/main/index.ipynb)
+[![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SModelS/tutorials/blob/main/index.ipynb)
