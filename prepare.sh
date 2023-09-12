@@ -1,7 +1,6 @@
 #!/bin/sh
 
 pip install -r requirements.txt
-rm -f parameters.ini
-rm -f parameters_idm.ini
-wget https://raw.githubusercontent.com/SModelS/tutorials/main/parameters.ini
-wget https://raw.githubusercontent.com/SModelS/tutorials/main/parameters_idm.ini
+rm -rf parameters.ini parameters_idm.ini slhaFiles files_tutorial.tar.gz
+wget https://raw.githubusercontent.com/SModelS/tutorials/main/files_tutorial.tar.gz
+tar xzvf files_tutorial.tar.gz
